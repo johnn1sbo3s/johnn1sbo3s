@@ -2,7 +2,7 @@
 
 I'm a passionate developer focused on building efficient solutions with **Vue.js** and **Python**. I love creating seamless user experiences and automating processes to make life easier for everyone. 
 
-- 🖥️ Main stack: **Vue.js**, **Python**
+- 🖥️ Main stack: **Vue.js**, **Nuxt** and **Python**
 - 🤖 Automation enthusiast
 - 🎨 UI/UX design advocate
 - 🛠️ Always exploring new technologies
